@@ -1,0 +1,62 @@
+/* Shutterbgg bootstrap project stylesheet 
+	Author: Joseph Maiello
+	Date:  07/07/2021
+	File:  Styles.css
+	font-family: 'Dancing Script', cursive;
+	font-family: 'Indie Flower', cursive;
+	font-family: 'Yomogi', cursive;
+*/
+
+div.container {
+	max-width: 1000px;
+}
+
+div.main {
+	background-image: url("../images/intro.jpg");
+	height: 560px;
+	background-size: cover;
+	padding-top: 5%;
+}
+
+div.main h1 {
+	font-family: 'special elite', cursive;
+	font-size: 3em;
+	text-shadow: white 3px 2px 2px;
+}
+
+div.main h2 {
+	font-family: 'Dancing Script', cursive;
+	margin-bottom: 3%;
+}
+
+div.main a.btn {
+	background-color: skyblue;
+	font-size: 1.5em;
+	color: white;
+	border-radius: 30px;
+
+}
+
+div.section {
+	padding-top: 3%;
+}
+
+div.row h1 {
+	font-family: 'Indie Flower', cursive;
+}
+
+div.row p {
+	font.size: 1.5em;
+	font-family: 'Yomogi', cursive;
+}
+
+div#store {
+	text-align: center;
+	margin-top: 3%;
+	margin-bottom: 3%;
+}
+
+div.footer h1 {
+	font-size: 2em;
+}
+/* background-image: url('../images/intro.jpg'); */
